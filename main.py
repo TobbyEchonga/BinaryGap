@@ -26,5 +26,8 @@ def maxZeros(N):
 # Driver Code
 N = 14
 print(maxZeros(N))
+
+
+
 # Output : 1
 # Binary representation of 14 is 1110. There is only one 0 in the binary representation.
